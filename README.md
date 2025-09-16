@@ -1,4 +1,6 @@
-1.Project Title
+# blinkit-dashboard
+## Recommended Structure and Order
+### 1.	Project Title / Headline
 
 Blinkit Sales & Outlet Analysis Dashboard
 
