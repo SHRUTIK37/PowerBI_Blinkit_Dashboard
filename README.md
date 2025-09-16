@@ -1,4 +1,4 @@
-# Blinkit-dashboard
+# PowerBI_Blinkit_Dashboard
 ## 1.	Project Title / Headline
 
 Blinkit Sales & Outlet Analysis Dashboard
@@ -66,4 +66,4 @@ Average customer rating stands at 3.9/5.
 
 
 
-# PowerBI_Blinkit_Dashboard
+
