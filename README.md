@@ -44,10 +44,10 @@ Household & Dairy items show the highest average sales per item.
 
 Average customer rating stands at 3.9/5.
 
-## 7.Screenshots/Demos
+## 7.Screenshot
 
 ![Dashboard Preview](https://github.com/SHRUTIK37/PowerBI_Blinkit_Dashboard/blob/main/snapshot_of_dashboard.png)
-)
+
 
 
 
