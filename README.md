@@ -46,7 +46,8 @@ Average customer rating stands at 3.9/5.
 
 ## 7.Screenshots/Demos
 
-Dashboard Preview (https://github.com/SHRUTIK37/PowerBI_Blinkit_Dashboard/blob/main/snapshot_of_dashboard.png)
+![Dashboard Preview](https://github.com/SHRUTIK37/PowerBI_Blinkit_Dashboard/blob/main/snapshot_of_dashboard.png)
+)
 
 
 
