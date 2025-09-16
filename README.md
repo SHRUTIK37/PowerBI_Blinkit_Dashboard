@@ -1,4 +1,4 @@
-# blinkit-dashboard
+# Blinkit-dashboard
 ## 1.	Project Title / Headline
 
 Blinkit Sales & Outlet Analysis Dashboard
