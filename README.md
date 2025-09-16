@@ -34,7 +34,8 @@ Supermarket Type 1 leads in sales ($7.87M).
 Household & Dairy items show the highest average sales per item.
 Average customer rating stands at 3.9/5.
 
-Screenshots/Demos
+7.Screenshots/Demos
+Dashboard Preview (https://github.com/SHRUTIK37/PowerBI_Blinkit_Dashboard/blob/main/snapshot_of_dashboard.png)
 
 
 
