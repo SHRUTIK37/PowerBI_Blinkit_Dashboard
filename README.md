@@ -21,21 +21,31 @@ Location type (Tier 1, Tier 2, Tier 3)
 
 ## 5.Features
 📈 Total Sales Overview – Track total sales ($1.20M), average sales, and item count.
+
 🛒 Item Insights – Breakdown of sales by item type (Household, Dairy, Snacks, etc.).
+
 🏬 Outlet Analysis – Performance by outlet size, location, and type.
+
 ⚖️ Fat Content Impact – Sales comparison of low-fat vs. regular products.
+
 ⭐ Customer Rating – Average rating across products and outlets.
+
 ⏳ Trend Analysis – Outlet establishment performance over years.
 
 ## 6.Highlights
 
 Sales highest in Tier 3 outlets ($472.13K).
+
 Medium-sized outlets contribute the most ($507.90K).
+
 Supermarket Type 1 leads in sales ($7.87M).
+
 Household & Dairy items show the highest average sales per item.
+
 Average customer rating stands at 3.9/5.
 
-##7.Screenshots/Demos
+## 7.Screenshots/Demos
+
 Dashboard Preview (https://github.com/SHRUTIK37/PowerBI_Blinkit_Dashboard/blob/main/snapshot_of_dashboard.png)
 
 
